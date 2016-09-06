@@ -1,0 +1,3 @@
+nVerts = int(input("How many vertices are in your polygon?: ")
+
+for i in range(1, nVerts):
